@@ -1,0 +1,8 @@
+const ExperimentalTypes = {
+    LIFTING_BODY: 'LIFTING_BODY',
+    HYPERSONIC: 'HYPERSONIC',
+    HIGH_ALTITUDE: 'HIGH_ALTITUDE',
+    VERTICAL_TAKE_OFF_AND_LANDING: 'VERTICAL_TAKE_OFF_AND_LANDING',
+};
+
+module.exports = ExperimentalTypes;
